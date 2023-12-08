@@ -1437,7 +1437,7 @@
     (property "Footprint" "footprints:CAPPM3216X180N" (at 185.42 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.digikey.com/en/products/detail/rubycon/50YXF47MEFC6-3X11/3563091" (at 185.42 73.025 0)
+    (property "Datasheet" "https://www.digikey.com/en/products/detail/kyocera-avx/F931A476KAA/4005057" (at 185.42 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 78f6b76a-3fad-4640-9499-68d6554e9f49))
