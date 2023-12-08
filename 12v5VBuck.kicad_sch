@@ -1483,7 +1483,7 @@
     (property "Value" "47uF" (at 187.325 73.6663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H11.0mm_P2.50mm" (at 185.42 73.025 0)
+    (property "Footprint" "footprints:CAPPM3216X180N" (at 185.42 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digikey.com/en/products/detail/rubycon/50YXF47MEFC6-3X11/3563091" (at 185.42 73.025 0)
